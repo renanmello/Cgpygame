@@ -7,7 +7,7 @@ pygame 2.1.2 (SDL 2.0.18, Python 3.9.13 or 3.10)
 
 Numpy 1.22.4
 
-Code Explanation in Portuguese:(Subtitles in English later):
+Code Explanation in Portuguese(Subtitles in English later):
 
 https://www.youtube.com/watch?v=Y2gLmlg6nDU
 
